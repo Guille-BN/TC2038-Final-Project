@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+venv/
+env/
+.venv/
+cache/
+*.sqlite
+.ipynb_checkpoints/
+# streamlit, logs, virtualenv artifacts
+streamlit/
